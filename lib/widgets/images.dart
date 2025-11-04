@@ -10,4 +10,10 @@ class MyImages {
   static const String php = 'assets/php.png';
   static const String learningweb = 'assets/learning.png';
   static const String playbutton = 'assets/playbutton.png';
+  static const String heartLottie = 'assets/heart.json';
+  static const String riveheart = 'assets/rivheart.riv';
+  static const String newheart = 'assets/newheart.json';
+  static const String pinkheart = 'assets/pinkheart.json';
+  static const String heart = 'assets/heart.svg';
+  static const String butterfly = 'assets/butterfly.svg';
 }

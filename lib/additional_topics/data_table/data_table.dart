@@ -14,7 +14,6 @@ class _DataTablePracState extends State<DataTablePrac> {
   bool sortAscending = true;
   int? sortColumnIndex;
 
-  // ✅ Sorting ONLY Price for now
   void _sortByPrice(int columnIndex, bool ascending) {
     setState(() {
       sortColumnIndex = columnIndex;
